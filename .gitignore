@@ -1,0 +1,6 @@
+# Data downloaded when the scripts run (re-created automatically)
+*.pkl
+*.csv
+*.png
+__pycache__/
+.DS_Store
